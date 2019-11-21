@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="zuulApiGetway"/>
+<aop-project name="webservices"/>
+<aop-project name="eurekaServer"/>
+<aop-project name="yogesh"/>
+</aop-reference-model>
